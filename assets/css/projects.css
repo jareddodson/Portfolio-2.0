@@ -1,0 +1,13 @@
+#nav {
+    background-color: black;
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+.nav-link {
+    color: white;
+    cursor: pointer;
+    background-color: black;
+    font-style: oblique;
+}
