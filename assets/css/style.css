@@ -28,3 +28,34 @@
     font-style: italic;
 }
 
+#intro {
+    padding-top: 60px;
+}
+
+#intro-text {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.jd {
+    background: -webkit-linear-gradient(rgb(255, 204, 204), rgb(255, 2, 2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: cursive;
+}
+
+#jdtitle {
+    padding-top: 40px;
+    
+}
+
+#jd-position {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+}
